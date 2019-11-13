@@ -1,0 +1,5 @@
+/Data
+
+# No need to share user specific settings
+.idea/workspace.xml
+.idea/tasks.xml
