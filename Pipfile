@@ -8,6 +8,10 @@ verify_ssl = true
 [packages]
 pandas = "*"
 matplotlib = "*"
+jupyter = "*"
+plotly = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.7"
