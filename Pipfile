@@ -6,6 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pandas = "*"
+matplotlib = "*"
+jupyter = "*"
+plotly = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.7"
